@@ -4,4 +4,5 @@ How r
 I'm learning git
 this chages was made in the feature-login branch
 Learning git push and pull
-commit revert
+commi revert
+revert all
