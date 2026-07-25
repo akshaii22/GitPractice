@@ -1,3 +1,4 @@
 hello git!
 My name is "Akshay"
-Hoe r u
+How r 
+I'm learning git
